@@ -1,4 +1,4 @@
-## Sales Report :
+## Sales finance Report :
 
 
 - **Project objective:** 
@@ -18,7 +18,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/arnav973/Excel-Sales-Finance--Analytics/blob/main/Project%20customer%20sales%20report.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/arnav973/Excel-Sales-Finance--Analytics/blob/main/Project%20customer%20sales%20report.pdf)_ & _[Months](https://github.com/arnav973/Excel-Sales-Finance--Analytics/blob/main/P%20%26%20L%20by%20fiscal%20month.pdf)_ 
 
   
 
